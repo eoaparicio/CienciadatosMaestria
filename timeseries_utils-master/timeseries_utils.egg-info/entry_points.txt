@@ -1,0 +1,3 @@
+[console_scripts]
+allocator = timeseries_utils.command_line:main
+
